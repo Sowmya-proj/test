@@ -1,1 +1,3 @@
-
+numpy==version_number
+pandas==version_number
+matplotlib==version_number
